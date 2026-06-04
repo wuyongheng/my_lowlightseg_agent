@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.venv/
+notes/*.md
+data/papers/*.pdf
